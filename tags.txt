@@ -1,0 +1,7 @@
+text-indent: 18px; (dar espaço no inicio do texto)
+background: linear-gradient (fazer um degrade no fundo)
+@media screen and (max-width:800px){} (configurar media querie)
+<picture><source media>=(max-width:800px)srcset:"" (criar opção alternativa de imagem para
+                                                    diferentes tamanhos de tela.)
+
+transition-duration: 1s; (para fazer um fade no seu efeito hover)
