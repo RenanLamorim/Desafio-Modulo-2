@@ -321,7 +321,7 @@ margin-bottom: 15px;
 
 @media screen and (max-width:1500px){
     .cabeçalho{
-        background: linear-gradient(#3CD983 , #1A5C38);
+        background: linear-gradient(#7b3cd9 , #1A5C38);
         height: 200px;
         width: 100%; 
         display: flex;
@@ -337,7 +337,7 @@ margin-bottom: 15px;
 
     }
 
-    @media screen and (max-width:600px){
+    @media screen and (max-width:800px){
         .main-page{
             width: 75%;
             background-color: white;
@@ -345,7 +345,7 @@ margin-bottom: 15px;
             border-radius: 10px 10px 10px 10px;
         }
         .cabeçalho{
-            background: linear-gradient(#d93c9d , #1A5C38);
+            background: linear-gradient(#3CD983 , #1A5C38);
             height: 200px;
             width: 100%;
             display: flex;
