@@ -430,6 +430,16 @@ margin-bottom: 15px;
             margin-left: 20px;
         
         }
+        .paragraf2-artigo-sess1{
+            font-family: 'Times New Roman', Times, serif ;
+            font-size: 3vw;
+            padding-left: 20px;
+            text-indent: 35px;
+            margin-bottom: 15px;
+
+        
+        }
+
         .titulo-div1-sess2{
             font-family: var(--fonte-titulo);
             color: #1D5E3B;
@@ -446,6 +456,37 @@ margin-bottom: 15px;
             margin-left: 20px;
             margin-top: 25px; 
             flex-wrap: wrap;
+        }
+        .titulo-div1-sess2{
+            font-family: var(--fonte-titulo);
+            color: #1D5E3B;
+            font-size: 3vw;
+            padding-left: 20px;
+            padding-top: 5px;
+            padding-bottom: 10px; 
+            display: flex;
+            flex-direction: row;
+            background: linear-gradient(to right, #C4EBD5 ,#FEFEFE);
+            padding-top: 0px;
+            padding-bottom: 0px;
+            margin-bottom: 15px;
+            margin-left: 20px;
+            margin-top: 25px; 
+            flex-wrap: wrap;
+        }
+
+        .paragraf-div1-sess2{
+            text-indent: 20px;
+            text-align: left;
+            padding-left: 15px;
+            margin-bottom: 15px;
+            font-size: 3vw;
+            }
+        
+        .paragraf-div-sess1{
+            margin-top: 15px;
+        text-align: center;
+        font-size: 3vw;
         }
         .sess3{
             background-color: #1A5C38;
