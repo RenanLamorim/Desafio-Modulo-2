@@ -503,6 +503,39 @@ margin-bottom: 15px;
             margin-bottom: 10px;
             font-size: 3vw;
         }
+        .paragraf-div-sess4{
+            text-indent: 25px;
+            padding-left: 15px;
+            margin-bottom: 15px;
+            margin-top: 15px; 
+            font-size:3vw;
+        }
+        .paragraf2-div-sess4{
+            text-indent: 25px;
+            padding-left: 15px;
+            margin-bottom: 15px; 
+            font-size: 3vw;
+        }
+        .paragraf3-div-sess4{
+            text-indent: 25px;
+            padding-left: 15px;
+            margin-bottom: 10px; 
+            font-size: 3vw;
+        }
+        .end-paragraf{
+            text-indent: 25px;
+            padding-left: 15px;
+            margin-bottom: 30px;
+            font-size: 3vw;   
+        }
+
+        .paragraf-footer{
+            color: white;
+            padding-top:5px ;
+            padding-bottom:5px ;
+            font-size: 0.9em;
+            font-size: 2.8vw;
+        }
         .sess3{
             background-color: #1A5C38;
             display: flex;
