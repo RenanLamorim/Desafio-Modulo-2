@@ -488,6 +488,21 @@ margin-bottom: 15px;
         text-align: center;
         font-size: 3vw;
         }
+        .image-div1-sess2{
+            margin-bottom: 5px;
+            width: auto;
+        }
+        .paragraf2-div1-sess2{
+            text-indent: 25px;
+            padding-left: 15px;
+            font-size: 3vw;
+        }
+        .paragraf1-div2-sess2{
+            text-indent: 25px;
+            padding-left: 15px;
+            margin-bottom: 10px;
+            font-size: 3vw;
+        }
         .sess3{
             background-color: #1A5C38;
             display: flex;
