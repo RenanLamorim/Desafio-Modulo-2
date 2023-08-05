@@ -499,7 +499,7 @@ margin-bottom: 15px;
         }
         .paragraf1-div2-sess2{
             text-indent: 25px;
-            padding-right: 25px;
+            padding-right: 35px;
             margin-bottom: 10px;
             font-size: 3vw;
             text-align:center;
@@ -513,14 +513,14 @@ margin-bottom: 15px;
         }
         .paragraf2-div-sess4{
             text-indent: 25px;
-            padding-left: 15px;
+            padding-left: 20px;
             margin-bottom: 15px; 
             font-size: 3vw;
         }
         .paragraf3-div-sess4{
             text-indent: 25px;
-            padding-left: 15px;
-            margin-bottom: 10px; 
+            padding-left: 20px;
+ 
             font-size: 3vw;
         }
         .end-paragraf{
@@ -568,7 +568,7 @@ margin-bottom: 15px;
         }
         .div-sess4{
             background-color: #C5EBD6; 
-            height: 665px; 
+            height: 635px; 
             width: 95% ;
             border-radius: 10px;
             margin-bottom: 3px;
