@@ -328,7 +328,7 @@ margin-bottom: 15px;
 
 
 
-    @media screen and (max-width:783px){
+    @media screen and (max-width:820px){
 
         .main-page{
             width: 75%;
@@ -654,6 +654,23 @@ margin-bottom: 15px;
 
         
     }
+
+    @media screen and (max-width:569px){
+        .article-list{
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 15px;
+            padding-left: 25px;
+            gap: 10px;
+            flex-wrap: wrap;   
+    }
+    .paragraf2-div-sess4{
+        text-indent: 25px;
+        padding-left: 20px;
+        margin-bottom: 20px; 
+        font-size: 2vw;
+    }
+}
 
 
        
